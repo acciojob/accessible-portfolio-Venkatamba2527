@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+body {
+font-family: Arial, sans-serif;
+margin: 20px;
+}
+
+
+nav a {
+text-decoration: none;
+margin-right: 10px;
+}
